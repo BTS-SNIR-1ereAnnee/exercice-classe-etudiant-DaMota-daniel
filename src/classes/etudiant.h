@@ -3,9 +3,9 @@ class etudiant
 public:
 
 //Constructeur par défault
-nomEtudiant;
+nomEtudiant(int nom);
 
-int setNom
+int setNom;
 
 int getNom;
 
